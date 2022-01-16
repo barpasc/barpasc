@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barpasc
-- 👀 I’m interested in developing applications using scripting languages (python, php, javascript, vba)
-- 🌱 I’m currently learning python, php, javascript
+- 👀 I’m interested in developing applications using scripting languages (python, php, javascript, vba, java)
+- 🌱 I’m currently learning python, php, javascript, java
 - 💞️ I’m looking to collaborate on anythong related to my interests
 - 📫 How to reach me ? I don't know
 
